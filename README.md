@@ -1,6 +1,6 @@
 # image-zoom-react
 
-[Visit Live Link here](https://image-zoom-in-react.vercel.app/)
+[Visit Live Link here](https://image-zoom-react.vercel.app/)
 A tiny project app where you can hover over the image and the zoomed version will be displayed on the side. Just the way you see in amazon.com/flipkart.com
 
 ## Features
