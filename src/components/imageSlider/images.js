@@ -1,10 +1,10 @@
 export const images = [
-  {
-    id: 1,
-    url:
-      "https://i.ibb.co/vQ8jF0z/man-wearing-red-sweatshirt-and-black-pants-leaning-on-the-845434.jpg",
-    alt: "Man wearing red sweatshirt"
-  },
+//   {
+//     id: 1,
+//     url:
+//       "https://i.ibb.co/vQ8jF0z/man-wearing-red-sweatshirt-and-black-pants-leaning-on-the-845434.jpg",
+//     alt: "Man wearing red sweatshirt"
+//   },
   {
     id: 2,
     url:
